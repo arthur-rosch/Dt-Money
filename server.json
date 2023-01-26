@@ -1,5 +1,5 @@
 {
-  "transactions" : [
+  "transactions": [
     {
       "id": 1,
       "description": "Desenvolvimento de site",
@@ -7,7 +7,6 @@
       "category": "venda",
       "price": 14000,
       "createdAt": "2023-01-23T21:10:16.085Z"
-
     },
     {
       "id": 2,
@@ -16,7 +15,22 @@
       "category": "alimentação",
       "price": 500,
       "createdAt": "2023-01-23T21:12:26.151Z"
-
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2023-01-26T20:21:49.633Z",
+      "id": 3
+    },
+    {
+      "description": "Academia",
+      "price": 120,
+      "category": "saude",
+      "type": "outcome",
+      "createdAt": "2023-01-26T20:41:35.853Z",
+      "id": 4
     }
   ]
 }
